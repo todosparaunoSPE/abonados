@@ -64,7 +64,7 @@ with col1:
     st.image("san_luis.jpeg", width=150)
 with col2:
     st.title("Asesor Jr. de Atención al Abonado")
-    st.markdown("**¡Hola reclutadores! Soy Javier Horacio Pèrez Ricárdez, y quiero fortalecer la conexión entre el club y su afición.** ⚽")
+    st.markdown("**¡Hola reclutadores! Soy Javier Horacio Pérez Ricárdez, y quiero fortalecer la conexión entre el club y su afición.** ⚽")
 
 # -----------------------------------------------
 # Sección 1: Importancia del Abonado
