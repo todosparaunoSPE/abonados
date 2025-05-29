@@ -17,7 +17,7 @@ import time
 # Configuración inicial de la página
 # -----------------------------------------------
 st.set_page_config(
-    page_title="¡Soy Javier Horacio Pérez ricárdez | Asesor Jr. de Abonados - Atlético de San Luis",
+    page_title="¡Soy Javier Horacio Pérez Ricárdez | Asesor Jr. de Abonados - Atlético de San Luis",
     page_icon="⚽",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -60,10 +60,10 @@ st.markdown("""
 # -----------------------------------------------
 col1, col2 = st.columns([1, 3])
 with col1:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Escudo_del_Atl%C3%A9tico_de_San_Luis.svg/1200px-Escudo_del_Atl%C3%A9tico_de_San_Luis.svg.png", width=150)
+    st.image("san_luis.jpeg", width=150)
 with col2:
     st.title("Asesor Jr. de Atención al Abonado")
-    st.markdown("**¡Hola reclutadores! Soy [Tu Nombre], y quiero fortalecer la conexión entre el club y su afición.** ⚽")
+    st.markdown("**¡Hola reclutadores! Soy Javier Horacio Pèrez Ricárdez, y quiero fortalecer la conexión entre el club y su afición.** ⚽")
 
 # -----------------------------------------------
 # Sección 1: Importancia del Abonado
